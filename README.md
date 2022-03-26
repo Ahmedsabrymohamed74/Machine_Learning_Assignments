@@ -1,2 +1,2 @@
 # Machine Learning Course Submissions
-This is not just a project, but also includes assignments.
+This is the submission repo for ML performed project and assignments.
